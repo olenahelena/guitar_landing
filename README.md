@@ -13,7 +13,6 @@ This is a solution to the given Figma design. My task was to create responsible 
 ### Screenshot
 
 ![](/desktop-screenshot.png)
-![](/mobile-screenshot.png)
 
 ### Link
 
